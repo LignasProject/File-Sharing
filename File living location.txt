@@ -1,0 +1,8 @@
+DoorPlugin.kt =
+OpenRune-Server\content\src\main\kotlin\org\alter\objects\DoorOpens
+
+StairsPlugin.kt =
+OpenRune-Server\content\src\main\kotlin\org\alter\objects\stairs
+
+Updated LadderPlugin.kt =
+OpenRune-Server\content\src\main\kotlin\org\alter\objects\ladder
